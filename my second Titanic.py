@@ -640,4 +640,3 @@ logreg.score(traindata, Ytraindata)
 
 
 
-#https://www.kaggle.com/jonathanbechtel/titanic/mastering-the-basics-on-the-rms-titanic
